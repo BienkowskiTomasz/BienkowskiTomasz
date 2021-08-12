@@ -3,4 +3,4 @@ Currently learning Java to become a junior dev.
 
 Notable previous professions include bass player and beer brewer.
 
-More info to come.
+More info later.
