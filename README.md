@@ -1,6 +1,23 @@
-Hi, I'm Tomasz Bieńkowski.
-Currently learning Java to become a junior dev.
+<h1 align="center">:point_right: Witam. :point_left:</h1>
 
-Notable previous professions include bass player and beer brewer.
+## :wrench: Tech stack :wrench:
 
-More info later.
+- **Java** (trainee, currently in [infoShare Academy](https://infoshareacademy.com/) bootcamp)
+- **Linux**
+- **Git**
+- HTML+CSS
+- Photoshop (basics)
+- sound editing (Wavelab, Audacity)
+
+## :guitar: Hobbies :guitar:
+- hiking
+- running
+- homebrewing
+- fingerstyle guitar
+
+## :beer: Notable previous gigs :beer:
+- craft brewing (5 years)
+- bass player
+---
+
+<h3 align="center"> :construction: This readme is under construction - like most websites from the past. :construction: </h3>
