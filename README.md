@@ -1,5 +1,3 @@
-<h1 align="center">:point_right: Witam. :point_left:</h1>
-
 ## :wrench: Tech stack :wrench:
 
 - **Java** (trainee, currently in [infoShare Academy](https://infoshareacademy.com/) bootcamp)
@@ -9,13 +7,13 @@
 - Photoshop (basics)
 - sound editing (Wavelab, Audacity)
 
-## :guitar: Hobbies :guitar:
+### :guitar: Hobbies :guitar:
 - hiking
 - running
 - homebrewing
 - fingerstyle guitar
 
-## :beer: Notable previous gigs :beer:
+### :beer: Notable previous gigs :beer:
 - craft brewing (5 years)
 - bass player
 ---
