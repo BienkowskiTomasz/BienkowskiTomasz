@@ -4,7 +4,7 @@
 - **Linux**
 - **Git**
 - HTML+CSS
-- Photoshop (basics)
+- Photoshop (basic)
 - sound editing (Wavelab, Audacity)
 
 ### :guitar: Hobbies :guitar:
